@@ -27,6 +27,6 @@ As I have mentioned before, you never know who is going to read your readme. So 
 This is where you let them know that they can contribute and help you out. A guideline on how to contribute is also helpful
 ## Credits
 Giving proper credit is most important. Mention any links/repos which helped you or inspired you to build this project. It can be a blog, another open source project, or just people who have contributed to building this project.
-ex, Thank you to [My Great Learning Blog] (https://www.mygreatlearning.com/blog/readme-file) for providing the context of this readMe file.
+ex, Thank you to [My Great Learning Blog](https://www.mygreatlearning.com/blog/readme-file) for providing the context of this readMe file.
 ## License
 A short description of the license. (MIT, Apache, etc.)
