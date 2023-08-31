@@ -1,4 +1,4 @@
-# Emerge-Wk1
+# Emerge-Wk1 (All About the README)
 ## Project Title
 A little brief about what the project is about. It should be like a small summary format informing about the main purpose of the project.
 ## Motivation
